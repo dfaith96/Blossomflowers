@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-label="Green orchid flower">
+  <rect width="900" height="650" fill="#0f4727"/>
+  <circle cx="452" cy="305" r="236" fill="#1d6b38"/>
+  <g fill="none" stroke="#9bd16c" stroke-width="12" stroke-linecap="round">
+    <path d="M450 584c-10-160 14-269 73-328"/>
+    <path d="M448 584c-70-94-126-133-228-155"/>
+  </g>
+  <g fill="#58a85f">
+    <ellipse cx="300" cy="510" rx="62" ry="142" transform="rotate(-65 300 510)"/>
+    <ellipse cx="595" cy="510" rx="62" ry="142" transform="rotate(65 595 510)"/>
+  </g>
+  <g>
+    <ellipse cx="450" cy="282" rx="75" ry="132" fill="#d9f2dc"/>
+    <ellipse cx="363" cy="320" rx="72" ry="120" transform="rotate(-48 363 320)" fill="#b8e986"/>
+    <ellipse cx="537" cy="320" rx="72" ry="120" transform="rotate(48 537 320)" fill="#b8e986"/>
+    <ellipse cx="450" cy="385" rx="66" ry="85" fill="#f4ffd5"/>
+    <circle cx="450" cy="356" r="34" fill="#79c267"/>
+    <path d="M421 393c18 22 42 22 60 0" fill="none" stroke="#7fbf49" stroke-width="9" stroke-linecap="round"/>
+  </g>
+</svg>

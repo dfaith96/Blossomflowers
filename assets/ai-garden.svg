@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" role="img" aria-label="AI plant care dashboard with leaves">
+  <rect width="1000" height="760" fill="#062d18"/>
+  <path d="M0 540c190-77 334-72 472 12 151 91 327 83 528-23v231H0z" fill="#0f4727"/>
+  <rect x="130" y="120" width="520" height="330" rx="26" fill="#d9f2dc" opacity=".94"/>
+  <rect x="168" y="162" width="222" height="28" rx="14" fill="#207a3f"/>
+  <rect x="168" y="218" width="410" height="22" rx="11" fill="#79c267"/>
+  <rect x="168" y="263" width="330" height="22" rx="11" fill="#79c267"/>
+  <rect x="168" y="308" width="380" height="22" rx="11" fill="#79c267"/>
+  <circle cx="542" cy="179" r="46" fill="#b8e986"/>
+  <path d="M525 179h34M542 162v34" stroke="#0f4727" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#62b86a">
+    <ellipse cx="740" cy="402" rx="76" ry="168" transform="rotate(-28 740 402)"/>
+    <ellipse cx="830" cy="435" rx="66" ry="148" transform="rotate(31 830 435)"/>
+    <ellipse cx="760" cy="545" rx="62" ry="138" transform="rotate(-68 760 545)"/>
+  </g>
+  <g fill="none" stroke="#b8e986" stroke-width="8" stroke-linecap="round">
+    <path d="M740 402c20 77 22 144 5 203"/>
+    <path d="M830 435c-13 60-9 112 10 157"/>
+  </g>
+  <g stroke="#b8e986" stroke-width="8" fill="none">
+    <circle cx="286" cy="596" r="42"/>
+    <circle cx="400" cy="596" r="42"/>
+    <circle cx="514" cy="596" r="42"/>
+    <path d="M328 596h30M442 596h30"/>
+  </g>
+</svg>

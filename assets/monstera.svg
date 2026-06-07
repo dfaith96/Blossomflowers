@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-label="Monstera houseplant leaves">
+  <rect width="900" height="650" fill="#0b3d22"/>
+  <rect x="70" y="62" width="760" height="526" rx="44" fill="#15572e"/>
+  <g fill="none" stroke="#9bd16c" stroke-width="14" stroke-linecap="round">
+    <path d="M448 552V236"/>
+    <path d="M448 402c-60-66-130-103-210-112"/>
+    <path d="M448 392c80-72 154-111 222-119"/>
+  </g>
+  <g fill="#62b86a">
+    <path d="M402 260c-115-112-255-48-279 75-24 122 85 203 189 146 54-29 83-86 90-221z"/>
+    <path d="M492 244c127-101 260-23 270 102 10 124-108 190-205 121-50-36-72-97-65-223z"/>
+    <path d="M450 174c-89 20-137 103-111 182 24 76 110 114 185 70 75-45 83-147 18-207-25-23-55-38-92-45z"/>
+  </g>
+  <g fill="#15572e">
+    <ellipse cx="265" cy="314" rx="24" ry="53" transform="rotate(-45 265 314)"/>
+    <ellipse cx="311" cy="398" rx="20" ry="45" transform="rotate(22 311 398)"/>
+    <ellipse cx="599" cy="319" rx="22" ry="50" transform="rotate(42 599 319)"/>
+    <ellipse cx="575" cy="410" rx="20" ry="45" transform="rotate(-18 575 410)"/>
+    <ellipse cx="445" cy="312" rx="19" ry="43" transform="rotate(6 445 312)"/>
+  </g>
+</svg>

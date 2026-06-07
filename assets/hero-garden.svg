@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Green flower garden">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b3d22"/>
+      <stop offset="1" stop-color="#1d6b38"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="74%" cy="18%" r="34%">
+      <stop offset="0" stop-color="#d7ff9a" stop-opacity=".9"/>
+      <stop offset=".48" stop-color="#75c96b" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#0b3d22" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <rect width="1600" height="900" fill="url(#sun)"/>
+  <path d="M0 648c176-76 327-90 489-38 156 50 294 43 436-22 223-101 456-73 675 28v284H0z" fill="#0a2f1a"/>
+  <path d="M0 723c176-41 358-37 540 12 193 52 375 44 545-20 172-64 337-73 515-24v209H0z" fill="#0f4727"/>
+  <g fill="none" stroke="#90d871" stroke-width="13" stroke-linecap="round">
+    <path d="M112 810c7-92 33-163 78-214"/>
+    <path d="M292 826c-7-123 14-221 63-294"/>
+    <path d="M1304 820c-2-125 23-220 74-284"/>
+    <path d="M1452 815c14-98 51-173 112-226"/>
+  </g>
+  <g fill="#b8e986">
+    <ellipse cx="160" cy="623" rx="58" ry="24" transform="rotate(-24 160 623)"/>
+    <ellipse cx="253" cy="652" rx="56" ry="22" transform="rotate(26 253 652)"/>
+    <ellipse cx="358" cy="548" rx="70" ry="28" transform="rotate(-18 358 548)"/>
+    <ellipse cx="1307" cy="628" rx="64" ry="25" transform="rotate(23 1307 628)"/>
+    <ellipse cx="1425" cy="650" rx="68" ry="26" transform="rotate(-22 1425 650)"/>
+  </g>
+  <g>
+    <circle cx="187" cy="581" r="34" fill="#f4ffd5"/>
+    <circle cx="187" cy="581" r="14" fill="#7fbf49"/>
+    <circle cx="355" cy="515" r="40" fill="#d9f2dc"/>
+    <circle cx="355" cy="515" r="15" fill="#79c267"/>
+    <circle cx="1378" cy="539" r="38" fill="#f4ffd5"/>
+    <circle cx="1378" cy="539" r="15" fill="#79c267"/>
+    <circle cx="1538" cy="580" r="35" fill="#d9f2dc"/>
+    <circle cx="1538" cy="580" r="14" fill="#7fbf49"/>
+  </g>
+</svg>
